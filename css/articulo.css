@@ -1,0 +1,42 @@
+*{margin: 2px;
+  padding:2px; 
+  background-repeat: repeat;
+   }
+  
+
+  body{background-image: url(../img/minimalist-zen\ android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-hqrav.jpg);
+       color: rgba(0, 0, 0, 0.623);}
+   
+  .cabecera{float: left;
+              display:block;
+              width: 100%;
+              height: 40px;
+              background: rgba(240, 19, 19, 0.404);
+              padding: 15px;
+              background-image: url(../img/8-Bit_Wallpaper_texture\ lpg.webp);
+              color: aliceblue;}
+              
+              h1{ text-align: center;
+                  line-height: 35px;
+                  font-size: 3em;
+                  text-transform: uppercase;
+                  font-family: 'Press Start 2P', cursive;}
+              
+    h2 {text-align: center;
+        margin: 2px;
+        text-transform: uppercase;
+        font-family: 'Press Start 2P', cursive;}    
+                
+                                     .imagenes {flex-direction: row;  
+            margin: 5px;}             
+           
+footer{display:block;
+        width: 100%;
+        height: 40px;
+        background-color: cadetblue ;
+        text-transform: uppercase;
+        font-family: 'Press Start 2P', cursive;
+        background-image: url(../img/8-Bit_Wallpaper_texture\ lpg.webp);
+        color: white;}
+
+ 

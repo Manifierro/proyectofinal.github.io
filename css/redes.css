@@ -1,0 +1,20 @@
+.social { background-color: darkgray;
+          min-height: 450px; 
+          display: block;
+          width: 100%;}
+
+          h1{text-align: center;}
+
+          .contenedor{ background-color:rgb(0, 0, 0); 
+                       height: 450px;}   
+                       
+                       
+          .redes{ width: auto;
+                  height: 90px;
+                  margin: auto;}  
+          
+          .redes a{display: block;
+                   width: 33.33%;
+                text-align: center;}                  
+          
+

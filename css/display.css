@@ -1,0 +1,45 @@
+/*Documento css*/
+
+*{margin: 0;
+  padding: 0;}
+
+  .cabecera{display: block;
+            width: 100%;
+            min-height: 35px;
+            background: aqua;
+            padding: 25px; }
+
+            h4{ text-align: center;
+                line-height: 35px;
+                font-size: 3em;
+                text-transform: uppercase;
+                font-family: 'Press Start 2P', cursive;}
+
+
+                #principal{ display: block;
+                            width: 500px;
+                            min-height: 1px;
+                            margin: 30px auto; }
+                 
+h1,h2{text-align: center;}
+
+.contenedor{display: flex;
+           flex-direction: row;
+           width: 100%;
+           margin-bottom: 8px;
+           /*background-color: rgb(5, 77, 61);*/
+           padding: 0px 15px;}
+
+.item{ width: 164px; 
+       background-color: aquamarine;
+       height:130px; 
+       margin: 0px 1%;
+       border-radius: 15px;}
+
+
+       .food1{background-image: url(../img/food1.jpg);}
+       .food2{background-image: url(../img/food2.jpg);}
+       .food3{background-image: url(../img/food3.jpg);}
+       .food4{background-image: url(../img/food4.jpg);}
+       .food5{background-image: url(../img/food5.jpg);
+              width: 330px; }

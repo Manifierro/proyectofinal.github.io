@@ -1,0 +1,41 @@
+/*dcumento*/
+
+*{ margin: 0px 0px 0px 0px;
+   padding: 0px;
+   }
+
+   body { background-image: url(../img/denim.webp) ;
+         /*background-repeat: repeat-y;*/
+          /*background-size: cover;*/
+          background-attachment: fixed;}
+
+          .cabecera { display: block;
+                      width: 100%;
+                      height: 120px;
+                      padding: top 20px;
+                      background-color: rgba(194, 194, 194, 0.384);} 
+                      
+                      h1{text-align: center;
+                         padding: 15px 0px;
+                         background-color: dimgrey ;
+                         line-height: 40px;
+                         color: rgb(0, 0, 0);}
+
+                         .cajas{display: block;
+                                 width: 60%;
+                                 min-height: 1px;
+                                 background: rgb(165, 165, 165);
+                                 margin: 15px auto;
+                                 padding: 15px auto;}
+                                 
+                         .Ingredientes{background-color: rgb(170, 169, 169);}
+
+.Enlaces a:hover { background-color:aliceblue;
+                   letter-spacing: 3px; 
+                   font-size: 2.3em;
+                   text-decoration: none;
+                   text-align: right;}
+                                            
+.Enlaces a:active{background-color: black;}
+.Enlaces a:visited{text-decoration: line-through;
+                   color: blue;}

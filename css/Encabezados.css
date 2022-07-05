@@ -1,0 +1,44 @@
+/*documento*/
+
+* {font-size: 20px;
+   margin: 0px;
+   padding: 0px;    }
+
+  body {background-color: rgb(14, 206, 206);  }
+
+  h1{margin: 20px;
+     color: blue ;
+     font-size: 3em;
+      text-align: center;}
+
+
+  h2{color: rgb(1, 1, 70);  } 
+
+  h3{color: blueviolet ;}
+
+  h4{color: cornflowerblue;}
+
+  h5{ color: rgb(190, 146, 231);}
+
+  h6{color: rgb(81, 133, 230);}
+
+.encabezado1 { text-align:left; }
+
+.parrafo:first-line { text-transform: uppercase;
+                       font-weight: bold;
+                       color: white;}
+
+.parrafo::first-letter { font-size: 5em;
+                        float: left;
+                        margin-right: 15px;}
+
+.parrafo2:before { content: "i love you";
+                   display: block ;
+                    width: 100px; 
+                    height: 100pc;
+                    font-size: 0.8em;
+                    background-image: url(../img/640px-Heart_corazón.svg.png);
+                    background-size: 80px 50px;
+                    background-repeat:  no-repeat;  
+                    padding-top: 18px;}
+                    

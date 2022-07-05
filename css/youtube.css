@@ -1,0 +1,15 @@
+*{margin: 4px;
+  padding: 4px;}
+    
+       
+.texto { text-align: center ;
+        color: grey; 
+        font-family: 'Roboto', sans-serif;}
+    
+.font { text-transform: uppercase;
+           font-family: 'Roboto', sans-serif;
+            }           
+    
+    
+    .videos { display: flex;
+              flex-direction: row; }
